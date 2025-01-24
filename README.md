@@ -9,7 +9,7 @@ Client selects number of colors or default will be 10.
 When the Run button is pressed the website will update and will generate a
 color pallete. display the top number of colors user has requested to and their details.
 below are some images of the website in action.
-website can be fouynd @ 
+website can be fouynd @ https://color-pallete-gen-website.onrender.com/
 
 ![Screenshot (129)](https://github.com/user-attachments/assets/2a85e9e3-339b-4c65-a1cc-949337d9d5ca)
 
